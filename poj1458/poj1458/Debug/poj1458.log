@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\smart\documents\visual studio 2015\projects\poj1458\poj1458\source.cpp(41): warning C4018: '<': signed/unsigned mismatch
+c:\users\smart\documents\visual studio 2015\projects\poj1458\poj1458\source.cpp(42): warning C4018: '<': signed/unsigned mismatch
+  poj1458.vcxproj -> C:\Users\smart\Documents\Visual Studio 2015\Projects\poj1458\Debug\poj1458.exe
+  poj1458.vcxproj -> C:\Users\smart\Documents\Visual Studio 2015\Projects\poj1458\Debug\poj1458.pdb (Full PDB)
