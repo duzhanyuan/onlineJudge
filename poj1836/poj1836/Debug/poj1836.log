@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\smart\documents\visual studio 2015\projects\onlinejudege\poj1836\poj1836\source.cpp(45): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  poj1836.vcxproj -> C:\Users\smart\Documents\Visual Studio 2015\Projects\onlineJudege\poj1836\Debug\poj1836.exe
+  poj1836.vcxproj -> C:\Users\smart\Documents\Visual Studio 2015\Projects\onlineJudege\poj1836\Debug\poj1836.pdb (Full PDB)
