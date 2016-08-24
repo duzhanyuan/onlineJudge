@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\smart\documents\visual studio 2015\projects\onlinejudege\poj2718\poj2718\source.cpp(45): warning C4018: '<': signed/unsigned mismatch
+  poj2718.vcxproj -> C:\Users\smart\Documents\Visual Studio 2015\Projects\onlineJudege\poj2718\Debug\poj2718.exe
+  poj2718.vcxproj -> C:\Users\smart\Documents\Visual Studio 2015\Projects\onlineJudege\poj2718\Debug\poj2718.pdb (Full PDB)
