@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\smart\documents\visual studio 2015\projects\onlinejudege\poj3421\poj3421\source.cpp(84): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type '__int64'
+  c:\users\smart\documents\visual studio 2015\projects\onlinejudege\poj3421\poj3421\source.cpp(84): note: consider using '%lld' in the format string
+  c:\users\smart\documents\visual studio 2015\projects\onlinejudege\poj3421\poj3421\source.cpp(84): note: consider using '%I64d' in the format string
+  poj3421.vcxproj -> C:\Users\smart\Documents\Visual Studio 2015\Projects\onlineJudege\poj3421\Debug\poj3421.exe
+  poj3421.vcxproj -> C:\Users\smart\Documents\Visual Studio 2015\Projects\onlineJudege\poj3421\Debug\poj3421.pdb (Full PDB)
