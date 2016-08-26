@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\smart\documents\visual studio 2015\projects\onlinejudege\poj1930\poj1930\source.cpp(81): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  poj1930.vcxproj -> C:\Users\smart\Documents\Visual Studio 2015\Projects\onlineJudege\poj1930\Debug\poj1930.exe
+  poj1930.vcxproj -> C:\Users\smart\Documents\Visual Studio 2015\Projects\onlineJudege\poj1930\Debug\poj1930.pdb (Full PDB)
