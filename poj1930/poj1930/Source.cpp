@@ -64,26 +64,7 @@ int main() {
 
 		for (len = 0; str[len] != '.' || str[len + 1] != '.'; len++);//0.37... len=4
 
-		bool flag = false;//处理0.0000...的特例
-		for (int i = 2; i < len; i++) {
-			if (str[i] != '0') {
-				flag = true;
-				break;
-			}
-		}
-		if (!flag) {
-			printf("0/1\n");
-			continue;
-		}
-		if (len == 3) {//0.x....的特例
-			int a = str[2] - 48;
-			int b = 9;
-			int gc = gcd(a, b);
-			a = a / gc; b = b / gc;
-			printf("%d/%d\n", a, b);
-			continue;
-		}
-		//正常情况
+
 		for (int i = 1; i <= len - 2; i++) {//i循环部分长度
 			int loop = 0;//循环部分
 			for (int j = i - 1; j >= 0; j--) {
@@ -95,13 +76,7 @@ int main() {
 				re = re * 10 + str[j] - 48;
 			}
 			long long a = loop*mypow(10, relen) + re*(mypow(10, i+relen) - mypow(10, relen));
-			long long b = 0;
-		//	if(relen!=0){
-				b = mypow(10, i + 2 * relen) - mypow(10, 2 * relen);
-		//	}
-		//	else {
-		//		b = mypow(10, i);
-		//	}
+			long long b = mypow(10, i + 2 * relen) - mypow(10, 2 * relen);
 			long long gc = gcd(a, b);
 			a = a / gc; b = b / gc;
 			if (minDe == 0 || b < minDe) {
