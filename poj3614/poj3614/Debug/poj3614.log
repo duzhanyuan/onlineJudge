@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\smart\documents\visual studio 2015\projects\onlinejudege\poj3614\poj3614\source.cpp(52): warning C4101: 'spf': unreferenced local variable
+c:\users\smart\documents\visual studio 2015\projects\onlinejudege\poj3614\poj3614\source.cpp(52): warning C4101: 'l': unreferenced local variable
+c:\users\smart\documents\visual studio 2015\projects\onlinejudege\poj3614\poj3614\source.cpp(52): warning C4101: 'h': unreferenced local variable
+c:\users\smart\documents\visual studio 2015\projects\onlinejudege\poj3614\poj3614\source.cpp(52): warning C4101: 'n': unreferenced local variable
+  poj3614.vcxproj -> C:\Users\smart\Documents\Visual Studio 2015\Projects\onlineJudege\poj3614\Debug\poj3614.exe
+  poj3614.vcxproj -> C:\Users\smart\Documents\Visual Studio 2015\Projects\onlineJudege\poj3614\Debug\poj3614.pdb (Full PDB)
