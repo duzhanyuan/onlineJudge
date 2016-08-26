@@ -1,0 +1,11 @@
+﻿  Source.cpp
+c:\users\smart\documents\visual studio 2015\projects\onlinejudege\poj2236\poj2236\source.cpp(95): warning C4477: 'scanf' : format string '%lld' requires an argument of type '__int64 *', but variadic argument 1 has type 'int *'
+  c:\users\smart\documents\visual studio 2015\projects\onlinejudege\poj2236\poj2236\source.cpp(95): note: consider using '%d' in the format string
+  c:\users\smart\documents\visual studio 2015\projects\onlinejudege\poj2236\poj2236\source.cpp(95): note: consider using '%Id' in the format string
+  c:\users\smart\documents\visual studio 2015\projects\onlinejudege\poj2236\poj2236\source.cpp(95): note: consider using '%I32d' in the format string
+c:\users\smart\documents\visual studio 2015\projects\onlinejudege\poj2236\poj2236\source.cpp(95): warning C4477: 'scanf' : format string '%lld' requires an argument of type '__int64 *', but variadic argument 2 has type 'int *'
+  c:\users\smart\documents\visual studio 2015\projects\onlinejudege\poj2236\poj2236\source.cpp(95): note: consider using '%d' in the format string
+  c:\users\smart\documents\visual studio 2015\projects\onlinejudege\poj2236\poj2236\source.cpp(95): note: consider using '%Id' in the format string
+  c:\users\smart\documents\visual studio 2015\projects\onlinejudege\poj2236\poj2236\source.cpp(95): note: consider using '%I32d' in the format string
+  poj2236.vcxproj -> C:\Users\smart\Documents\Visual Studio 2015\Projects\onlineJudege\poj2236\Debug\poj2236.exe
+  poj2236.vcxproj -> C:\Users\smart\Documents\Visual Studio 2015\Projects\onlineJudege\poj2236\Debug\poj2236.pdb (Full PDB)
