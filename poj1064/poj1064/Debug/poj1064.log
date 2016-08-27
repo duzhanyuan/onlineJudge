@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\smart\documents\visual studio 2015\projects\onlinejudege\poj1064\poj1064\source.cpp(45): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  poj1064.vcxproj -> C:\Users\smart\Documents\Visual Studio 2015\Projects\onlineJudege\poj1064\Debug\poj1064.exe
+  poj1064.vcxproj -> C:\Users\smart\Documents\Visual Studio 2015\Projects\onlineJudege\poj1064\Debug\poj1064.pdb (Full PDB)
