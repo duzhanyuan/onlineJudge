@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\smart\documents\visual studio 2015\projects\poj1995\poj1995\source.cpp(51): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+  poj1995.vcxproj -> c:\users\smart\documents\visual studio 2015\Projects\poj1995\Debug\poj1995.exe
+  poj1995.vcxproj -> c:\users\smart\documents\visual studio 2015\Projects\poj1995\Debug\poj1995.pdb (Full PDB)
