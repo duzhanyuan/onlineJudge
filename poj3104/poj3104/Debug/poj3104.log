@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\smart\documents\visual studio 2015\projects\pccb\poj3104\poj3104\source.cpp(67): warning C4244: '+=': conversion from 'double' to '__int64', possible loss of data
+  poj3104.vcxproj -> C:\Users\smart\Documents\Visual Studio 2015\Projects\PCCB\poj3104\Debug\poj3104.exe
+  poj3104.vcxproj -> C:\Users\smart\Documents\Visual Studio 2015\Projects\PCCB\poj3104\Debug\poj3104.pdb (Full PDB)
